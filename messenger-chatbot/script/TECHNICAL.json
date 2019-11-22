@@ -1,0 +1,15 @@
+{
+      "text": "Great! Please select your date of appointment.",
+      "quick_replies": [
+        {
+          "content_type":"text",
+          "title":"Select Date and Time",
+          "payload":"select date and time"
+        },
+        {
+          "content_type":"text",
+          "title":"Go Back",
+          "payload":"Home"
+        }
+      ]
+}

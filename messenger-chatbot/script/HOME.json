@@ -1,0 +1,15 @@
+{
+  "text": "Hello there! Would you rather have a quick guide through our bot (self-service) or contact me directly through Whatsapp?",
+  "quick_replies": [
+    {
+      "content_type":"text",
+      "title":"Self service",
+      "payload":"selfservice"
+    },
+    {
+      "content_type":"text",
+      "title":"Contact in person",
+      "payload":"contactperson"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "text": "Which type of appointment",
+    "quick_replies": [
+      {
+        "content_type":"text",
+        "title":"Marketing",
+        "payload":"marketing"
+      },
+      {
+        "content_type":"text",
+        "title":"Technical",
+        "payload":"technical"
+      },
+      {
+        "content_type":"text",
+        "title":"Go Back",
+        "payload":"Home"
+      }
+    ]
+}

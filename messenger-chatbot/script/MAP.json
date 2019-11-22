@@ -1,0 +1,10 @@
+{
+      "text": "Please type the location name you want to show on map. (E.G.: Santa Monica California)",
+      "quick_replies": [
+        {
+          "content_type":"text",
+          "title":"Go Back",
+          "payload":"home"
+        }
+      ]
+}

@@ -1,0 +1,21 @@
+{
+  "attachment": {
+    "type": "template",
+    "payload": {
+      "template_type": "media",
+      "elements": [
+        {
+           "media_type": "image",
+           "url": "https://www.facebook.com/photo.php?fbid=1789675321257116",
+           "buttons": [
+              {
+                 "type": "web_url",
+                 "url": "www.facebook.com",
+                 "title": "View Website"
+              }
+           ]
+        }
+     ]
+    }
+  }
+}
